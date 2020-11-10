@@ -1,8 +1,8 @@
 ---
-name: New Sprint
-about: 'Template to propose a new sprint '
+name: New General Sprint
+about: 'Template to propose a new general sprint '
 title: "[SPRINT] your sprint name "
-labels: ''
+labels: General Sprint
 assignees: ''
 
 ---
@@ -13,7 +13,6 @@ assignees: ''
 
 Contacts:
 Day/Time:
-Participants:
 
 ## Goals and deliverable
 [describe your goals for the week and the deliverables you are aiming for]
