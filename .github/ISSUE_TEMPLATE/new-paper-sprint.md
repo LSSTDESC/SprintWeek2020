@@ -1,8 +1,8 @@
 ---
-name: New General Sprint
-about: 'Template to propose a new general sprint '
+name: New Paper Sprint
+about: 'Template to propose a new paper sprint '
 title: "[SPRINT] your sprint name "
-labels: General Sprint
+labels: Paper Sprint
 assignees: ''
 
 ---
@@ -19,6 +19,6 @@ Day/Time:
 
 ## Resources and skills needed
 [describe the resources (software, skills, data, or just enthusiasm) needed for this project]
-  
+
 ## Detailed description
 [add additional details  about the project]
