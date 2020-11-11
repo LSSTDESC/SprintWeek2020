@@ -13,6 +13,8 @@ assignees: ''
 
 Contacts:
 Day/Time: Wednesday
+Main communication channel:
+GitHub repo:
 
 ## Goals and deliverable
 [describe your goals for the week and the deliverables you are aiming for]
