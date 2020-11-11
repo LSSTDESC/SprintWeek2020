@@ -1,8 +1,8 @@
 ---
-name: New Paper Sprint
-about: 'Template to propose a new paper sprint '
+name: New Service Sprint
+about: 'Template to propose a new service sprint '
 title: "[SPRINT] your sprint name "
-labels: Paper Sprint
+labels: Service Sprint, Wednesday
 assignees: ''
 
 ---
@@ -12,7 +12,7 @@ assignees: ''
 [One sentence description]
 
 Contacts:
-Day/Time:
+Day/Time: Wednesday
 
 ## Goals and deliverable
 [describe your goals for the week and the deliverables you are aiming for]
