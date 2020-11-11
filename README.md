@@ -1,5 +1,7 @@
 # SprintWeek2020
-Meeting repository for the LSST DESC 2020 Sprint Week
+Meeting repository for the LSST DESC 2020 Sprint Week. 
+
+Check the <a href="https://github.com/LSSTDESC/SprintWeek2020/issues">issue page</a> to see the list of sprints.
 
 ## How to propose a sprint
 
